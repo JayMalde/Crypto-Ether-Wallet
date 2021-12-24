@@ -1,0 +1,28 @@
+.myForm {
+    display: flex;
+    min-width: 500px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+  }
+
+.card-cust {
+    width: 30vw;
+}
+
+.btn-cust {
+  border-radius: 4px;
+  background: #808080;
+  padding: 10px 22px;
+  color: #000000;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+  text-decoration: none;
+}
+.btn-cust:hover {
+  transition: all 0.2s ease-in-out;
+  background: #fff;
+  color: #808080;
+}
