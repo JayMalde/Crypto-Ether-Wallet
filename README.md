@@ -1,5 +1,13 @@
 # Crypto-Ether-Wallet
 
+# Screenshots
+## Landing Page
+![Landing Page](images/landing.png)
+## All transactions from this account (data from etherescan api)
+![All Transactions](images/trsnsactions.png)
+## Single Transaction
+![Single Transaction](images/single_transaction.png)
+
 ## Technical Aspect
 * Node.js ( Javascript Runtime )
 * React.js ( Frontend Library )
